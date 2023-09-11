@@ -30,9 +30,3 @@ Here are some ideas to get you started:
         <img src="https://github-profile-trophy.vercel.app/?username=Duni03&column=7&theme=onedark"/>
     </p>
 </a>
-
-## Watch my contribution graph being eaten by a snake🐍
-
-<p align="center">
-  <img src="https://github.com/Duni03/Duni03/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
